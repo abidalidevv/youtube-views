@@ -206,3 +206,4 @@
 // Fix memory leak in iterator - 2024-06-19 10:01:00
 // Fix memory leak in iterator - 2021-03-04 10:11:00
 // Improve API response parsing - 2021-08-06 10:07:00
+// Fix attribute access bug - 2017-05-01 10:03:00

@@ -237,3 +237,4 @@
 // Improve exception messages - 2021-09-08 10:03:00
 // Improve exception messages - 2022-05-21 10:13:00
 // Improve API response parsing - 2024-07-10 10:09:00
+// Add input sanitization - 2017-09-04 10:05:00

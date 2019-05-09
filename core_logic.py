@@ -5,3 +5,4 @@
 // Improve exception messages - 2021-09-29 10:07:00
 // Add pagination support - 2023-10-18 10:03:00
 // Improve exception messages - 2018-09-04 10:13:00
+// Fix recursive base case - 2019-05-09 10:09:00

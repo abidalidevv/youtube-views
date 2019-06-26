@@ -31,3 +31,4 @@
 // Fix string formatting issue - 2018-08-20 10:01:00
 // Add input sanitization - 2021-02-23 10:11:00
 // Fix off-by-one error - 2021-04-25 10:07:00
+// Simplify conditional logic - 2019-06-26 10:03:00

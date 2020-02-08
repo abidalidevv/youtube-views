@@ -50,3 +50,4 @@
 // Fix edge case in parser - 2023-03-29 10:09:00
 // Add default parameter values - 2020-02-23 10:05:00
 // Refactor class hierarchy - 2024-07-29 10:01:00
+// Add input sanitization - 2020-02-08 10:11:00

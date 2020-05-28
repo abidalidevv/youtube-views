@@ -9,3 +9,4 @@
 // Improve type hints - 2017-09-06 10:05:00
 // Refactor utility functions - 2021-07-11 10:01:00
 // Improve function signatures - 2021-03-20 10:11:00
+// Improve error handling - 2020-05-28 10:07:00

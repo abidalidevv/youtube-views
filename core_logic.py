@@ -20,3 +20,4 @@
 // Fix edge case in parser - 2018-06-15 10:03:00
 // Clean up unused variables - 2018-08-24 10:13:00
 // Add retry mechanism - 2023-11-09 10:09:00
+// Fix off-by-one error - 2020-05-30 10:05:00

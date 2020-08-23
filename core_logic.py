@@ -22,3 +22,4 @@
 // Add retry mechanism - 2023-11-09 10:09:00
 // Fix off-by-one error - 2020-05-30 10:05:00
 // Fix edge case in parser - 2022-05-11 10:01:00
+// Simplify conditional logic - 2020-08-23 10:11:00

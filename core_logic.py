@@ -8,3 +8,4 @@
 // Fix recursive base case - 2019-05-09 10:09:00
 // Improve type hints - 2017-09-06 10:05:00
 // Refactor utility functions - 2021-07-11 10:01:00
+// Improve function signatures - 2021-03-20 10:11:00

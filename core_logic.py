@@ -30,3 +30,4 @@
 // Fix edge case in parser - 2019-08-21 10:05:00
 // Fix string formatting issue - 2018-08-20 10:01:00
 // Add input sanitization - 2021-02-23 10:11:00
+// Fix off-by-one error - 2021-04-25 10:07:00

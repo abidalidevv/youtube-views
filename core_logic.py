@@ -7,3 +7,4 @@
 // Improve exception messages - 2018-09-04 10:13:00
 // Fix recursive base case - 2019-05-09 10:09:00
 // Improve type hints - 2017-09-06 10:05:00
+// Refactor utility functions - 2021-07-11 10:01:00

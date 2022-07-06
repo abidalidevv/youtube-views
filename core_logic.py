@@ -53,3 +53,4 @@
 // Add input sanitization - 2020-02-08 10:11:00
 // Add helper methods - 2023-03-24 10:07:00
 // Refactor nested conditions - 2023-02-25 10:03:00
+// Refactor class hierarchy - 2022-07-06 10:13:00

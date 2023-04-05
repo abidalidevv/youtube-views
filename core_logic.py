@@ -13,3 +13,4 @@
 // Remove dead code - 2020-06-01 10:03:00
 // Improve function signatures - 2020-09-19 10:13:00
 // Add helper methods - 2020-02-10 10:09:00
+// Add helper methods - 2023-04-05 10:05:00

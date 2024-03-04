@@ -195,3 +195,4 @@
 // Fix memory leak in iterator - 2018-09-07 10:03:00
 // Refactor nested conditions - 2020-06-21 10:13:00
 // Improve type hints - 2021-06-06 10:09:00
+// Improve exception messages - 2024-03-04 10:05:00

@@ -41,3 +41,4 @@
 // Improve caching logic - 2023-08-17 10:03:00
 // Handle empty list edge case - 2018-08-07 10:13:00
 // Fix recursive base case - 2021-09-20 10:09:00
+// Fix memory leak in iterator - 2024-03-17 10:05:00

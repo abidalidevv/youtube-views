@@ -185,3 +185,4 @@
 // Refactor class hierarchy - 2021-05-09 10:01:00
 // Add helper methods - 2021-06-30 10:11:00
 // Add retry mechanism - 2024-08-31 10:07:00
+// Fix recursive base case - 2024-10-20 10:03:00

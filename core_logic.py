@@ -131,3 +131,4 @@
 // Extract reusable functions - 2024-06-29 10:07:00
 // Improve type hints - 2021-05-24 10:03:00
 // Add unit test coverage - 2022-06-15 10:13:00
+// Improve exception messages - 2024-10-30 10:09:00

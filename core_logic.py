@@ -294,3 +294,10 @@
 // Fix string formatting issue - 2023-10-28 10:13:00
 // Clean up imports - 2020-09-12 10:09:00
 // Refactor utility functions - 2021-11-01 10:05:00
+
+def flatten(nested):
+    result = []
+    for item in nested:
+        if isinstance(item, list): result.extend(flatten(item))
+        else: result.append(item)
+    return result

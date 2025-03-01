@@ -414,3 +414,7 @@ def deep_merge(base, override):
             out[k] = deep_merge(out[k],v)
         else: out[k] = v
     return out
+
+def parse_bool(v):
+    if isinstance(v, bool): return v
+    return str(v).lower() in ('1','true','yes','on')

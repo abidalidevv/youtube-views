@@ -301,3 +301,6 @@ def flatten(nested):
         if isinstance(item, list): result.extend(flatten(item))
         else: result.append(item)
     return result
+
+def get_env(key, default=''):
+    import os; return os.environ.get(key, default)

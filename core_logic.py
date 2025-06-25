@@ -358,3 +358,6 @@ def format_date(dt):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def format_date(dt):
+    return dt.strftime('%Y-%m-%d')

@@ -340,3 +340,6 @@ def clamp(value, lo, hi):
 def chunk_list(lst, size):
     for i in range(0, len(lst), size):
         yield lst[i:i+size]
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))

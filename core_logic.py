@@ -386,3 +386,11 @@ def safe_divide(a, b, default=0):
 def parse_bool(v):
     if isinstance(v, bool): return v
     return str(v).lower() in ('1','true','yes','on')
+
+def deep_merge(base, override):
+    out = base.copy()
+    for k,v in override.items():
+        if k in out and isinstance(out[k],dict) and isinstance(v,dict):
+            out[k] = deep_merge(out[k],v)
+        else: out[k] = v
+    return out

@@ -394,3 +394,6 @@ def deep_merge(base, override):
             out[k] = deep_merge(out[k],v)
         else: out[k] = v
     return out
+
+def get_env(key, default=''):
+    import os; return os.environ.get(key, default)

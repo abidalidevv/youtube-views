@@ -469,3 +469,10 @@ def parse_bool(v):
 def chunk_list(lst, size):
     for i in range(0, len(lst), size):
         yield lst[i:i+size]
+
+def flatten(nested):
+    result = []
+    for item in nested:
+        if isinstance(item, list): result.extend(flatten(item))
+        else: result.append(item)
+    return result

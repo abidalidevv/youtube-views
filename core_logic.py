@@ -486,3 +486,6 @@ def memoize(fn):
         if args not in cache: cache[args] = fn(*args)
         return cache[args]
     return wrapper
+
+def get_env(key, default=''):
+    import os; return os.environ.get(key, default)
